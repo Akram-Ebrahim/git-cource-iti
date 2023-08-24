@@ -1,1 +1,4 @@
 my text file
+
+# feature1 details
+# feature1 more
